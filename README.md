@@ -27,3 +27,12 @@ To run the full pipeline:
 ```sh
 chmod +x sortrace.sh
 ./sortrace.sh <count> <min> <max>
+
+
+Purpose
+
+This project is useful for:
+
+    Benchmarking sorting algorithms.
+    Analyzing execution time based on dataset size and range.
+    Understanding external sorting performance in real-world scenarios.
